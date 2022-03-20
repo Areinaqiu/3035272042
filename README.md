@@ -18,7 +18,7 @@ Due to the size limit, please find it in [model.pth](https://drive.google.com/fi
 Please download it in [res50_cats_128x128.py](res50_cats_128x128.py)
 
 ### For model training log
-Please download it in
+Please download it in [None.log.json](None.log.json)
 
 ### For dataset file
 Please donwload it in [cats.py](cats.py)
