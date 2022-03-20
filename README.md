@@ -15,7 +15,7 @@ Step 2: Update the dataset file "cats.py" in `/mmpose/configs/_base_/datasets/ca
 Due to the size limit, please find it in [model.pth](https://drive.google.com/file/d/1YOTDgsgOpbmI9twkVuDig8yrJmlraysJ/view?usp=sharing)
 
 ### For configuration file
-Please download it in 
+Please download it in [res50_cats_128x128.py](res50_cats_128x128.py)
 
 ### For model training log
 Please download it in
